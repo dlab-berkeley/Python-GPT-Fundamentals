@@ -9,7 +9,7 @@ This repository contains the materials for D-Lab's GPT Fundamentals workshop.
 ### Prerequisites
 No technical background is required, but we recommend attending [Python Fundamentals](https://github.com/dlab-berkeley/Python-Fundamentals) prior to this workshop in order to understand running Python code cells in Jupyter notebooks.
 
-Check out D-Lab's [Learning Pathways](https://dlab-berkeley.github.io/dlab-workshops/python_path.html) to figure out which of our workshops to take!
+Check out D-Lab’s [Workshop Catalog](https://dlab-berkeley.github.io/dlab-workshops/) to browse all workshops, see what’s running now, and review prerequisites.
 
 ## Workshop Goals
 
