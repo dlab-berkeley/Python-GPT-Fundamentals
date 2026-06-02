@@ -1,7 +1,7 @@
 # D-Lab's GPT Fundamentals in Python Workshop
 
-[![DataHub](https://img.shields.io/badge/launch-datahub-blue)](http://dlab.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2FGPT-Fundamentals&urlpath=lab%2Ftree%2FGPT-Fundamentals%2F)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dlab-berkeley/GPT-Fundamentals/HEAD)
+[![DataHub](https://img.shields.io/badge/launch-datahub-blue)](http://dlab.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2FPython-GPT-Fundamentals&urlpath=lab%2Ftree%2FPython-GPT-Fundamentals%2F)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dlab-berkeley/Python-GPT-Fundamentals/HEAD)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 This repository contains the materials for D-Lab's GPT Fundamentals workshop. 
@@ -41,7 +41,7 @@ We will use Python to go through the workshop materials. Complete the following 
     * Click the green "Code" button in the top right of the repository information.
     * Click "Download Zip".
     * Extract this file to a folder on your computer where you can easily access it (we recommend Desktop).
-3. Optional: if you’re familiar with git, you can instead clone this repository by opening a terminal and entering `git clone https://github.com/dlab-berkeley/GPT-Fundamentals.git`
+3. Optional: if you’re familiar with git, you can instead clone this repository by opening a terminal and entering `git clone https://github.com/dlab-berkeley/Python-GPT-Fundamentals.git`
 
 ### Minimum Specifications:
 * Processor: At least a modern quad-core processor (i5 or i7). More cores are beneficial for parallel processing.
@@ -63,7 +63,7 @@ workshop by the time it starts, we *strongly* recommend using the UC Berkeley
 Datahub to run the materials for these lessons. You can access the DataHub by
 clicking the following button:
 
-[![DataHub](https://img.shields.io/badge/launch-datahub-blue)](http://dlab.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2FGPT-Fundamentals&urlpath=lab%2Ftree%2FGPT-Fundamentals%2F)
+[![DataHub](https://img.shields.io/badge/launch-datahub-blue)](http://dlab.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2FPython-GPT-Fundamentals&urlpath=lab%2Ftree%2FPython-GPT-Fundamentals%2F)
 
 The DataHub downloads this repository, along with any necessary packages, and
 allows you to run the materials in an RStudio instance on UC Berkeley's servers.
@@ -71,11 +71,11 @@ No installation is necessary from your end - you only need an internet browser
 and a CalNet ID to log in. By using the DataHub, you can save your work and come
 back to it at any time. When you want to return to your saved work, just go
 straight to the [D-Lab DataHub](https://dlab.datahub.berkeley.edu), sign in, and
-you click on the `GPT-Fundamentals` folder.
+you click on the `Python-GPT-Fundamentals` folder.
 
 If you don't have a Berkeley CalNet ID, you can still run these lessons in the cloud, by clicking this button:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dlab-berkeley/GPT-Fundamentals/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dlab-berkeley/Python-GPT-Fundamentals/HEAD)
 
 By using this button, however, you cannot save your work.
 
